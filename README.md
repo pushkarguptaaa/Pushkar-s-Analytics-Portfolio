@@ -19,6 +19,7 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 
 ### [1️⃣ End-to-End Marketing Analytics Pipeline](https://github.com/pushkarguptaaa/End-to-End-Marketing-Analytics-Pipeline)
 **Tools:** SQL Server, Python, Power BI  
+### 🔗 [Live Link](https://app.powerbi.com/view?r=eyJrIjoiYWU0OTA2MDEtOWQ3OC00MzNjLThiOTctMTJmMWI1ODU3MTlkIiwidCI6IjY3YWI1OTEyLTg0YWItNGQwOS1iZTcyLWMxZDVjYzk2YTEzNCJ9)
 
 - Built a complete analytics workflow from raw data ingestion to dashboard reporting  
 - Performed data cleaning and transformation using SQL Server  
