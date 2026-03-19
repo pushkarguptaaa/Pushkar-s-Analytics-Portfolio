@@ -25,7 +25,9 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 - Conducted customer sentiment and behavioral analysis using Python  
 - Designed KPI logic and reporting layer in Power BI  
 - Developed a 4-page interactive dashboard (Overview, Conversion, Social Media, Customer Reviews)  
-- Generated insights to support marketing performance and decision-making  
+- Generated insights to support marketing performance and decision-making
+
+![Overview Report](images/Picture1.png)
 
 ---
 
@@ -37,7 +39,9 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 - Built optimized data model with proper relationships and date intelligence  
 - Developed advanced DAX measures (YTD, YoY growth, ranking, KPIs)  
 - Created interactive dashboards with drill-through, filters, and dynamic reporting  
-- Delivered workforce insights aligned with business KPIs  
+- Delivered workforce insights aligned with business KPIs
+
+![Overview Report](images/Picture2.png)
 
 ---
 
@@ -49,7 +53,9 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 - Integrated SQL and Python for flexible analytical workflows  
 - Conducted exploratory data analysis using pandas  
 - Visualized key insights using matplotlib and seaborn  
-- Identified trends in sales performance, customer behavior, and product demand  
+- Identified trends in sales performance, customer behavior, and product demand
+
+![Overview Report](images/Picture3.png)
 
 ---
 
