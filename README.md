@@ -46,15 +46,15 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 
 ---
 
-### [3️⃣ SQL + Python eCommerce Analytics](https://github.com/pushkarguptaaa/SQL-Python-Hybrid-Ecommerce-Analytics)
-**Tools:** SQL Server, Python, Jupyter  
+### [3️⃣ SQL Sales Analytics – Advanced Querying & Business Insights](https://github.com/pushkarguptaaa/sql-sales-analytics)
+**Tools:** SQL Server  
 
-- Ingested and structured raw eCommerce datasets into SQL Server using Python  
-- Performed SQL-based analysis to solve business problem statements  
-- Integrated SQL and Python for flexible analytical workflows  
-- Conducted exploratory data analysis using pandas  
-- Visualized key insights using matplotlib and seaborn  
-- Identified trends in sales performance, customer behavior, and product demand
+- Performed structured data exploration across dimensions, measures, and time  
+- Conducted magnitude, ranking, and performance analysis using advanced SQL queries  
+- Implemented time-based analysis, including trends and cumulative metrics  
+- Analysed part-to-whole contribution and customer segmentation  
+- Built structured customer and product performance reports  
+- Generated actionable business insights for sales performance optimisation
 
 ![Overview Report](images/Picture3.png)
 
