@@ -46,7 +46,7 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 
 ---
 
-### [3️⃣ SQL Sales Analytics – Advanced Querying & Business Insights](https://github.com/pushkarguptaaa/sql-sales-analytics)
+### [3️⃣ SQL Sales Analytics – Advanced Querying & Business Insights](https://github.com/pushkarguptaaa/Advanced-SQL-Sales-Performance-Analytics)
 **Tools:** SQL Server  
 
 - Performed structured data exploration across dimensions, measures, and time  
