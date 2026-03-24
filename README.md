@@ -67,7 +67,7 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 
 ---
 
-## [🟡 NYC Restaurant Inspections – Data Prprocessing & Cleaning](https://github.com/pushkarguptaaa/Restaurant-Data-Preprocessing-Python-SQL)  
+## [🟡 NYC Restaurant Inspections – Data Preprocessing & Cleaning](https://github.com/pushkarguptaaa/Restaurant-Data-Preprocessing-Python-SQL)  
 **Tools:** Python (pandas, sqlite3), SQL (SQLite), Jupyter  
 
 - Collected and integrated inspection and ratings data from web scraping and APIs  
