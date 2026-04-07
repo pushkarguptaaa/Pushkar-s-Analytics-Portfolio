@@ -22,7 +22,7 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 ## [1️⃣ End-to-End Marketing Analytics Pipeline](https://github.com/pushkarguptaaa/End-to-End-Marketing-Analytics-Pipeline)
 **Tools:** SQL Server, Python, Power BI  
 
-🔗 **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU0OTA2MDEtOWQ3OC00MzNjLThiOTctMTJmMWI1ODU3MTlkIiwidCI6IjY3YWI1OTEyLTg0YWItNGQwOS1iZTcyLWMxZDVjYzk2YTEzNCJ9)**
+🔗 **[Live Report](https://app.powerbi.com/view?r=eyJrIjoiYWU0OTA2MDEtOWQ3OC00MzNjLThiOTctMTJmMWI1ODU3MTlkIiwidCI6IjY3YWI1OTEyLTg0YWItNGQwOS1iZTcyLWMxZDVjYzk2YTEzNCJ9)**
 
 - Built a complete analytics workflow from raw data ingestion to dashboard reporting  
 - Performed data cleaning and transformation using SQL Server  
@@ -37,6 +37,8 @@ I specialize in SQL, Python, and Power BI, building end-to-end analytics solutio
 
 ## [2️⃣ Advanced HR Analytics – Data Modeling & Executive Reporting](https://github.com/pushkarguptaaa/Advanced-Business-Intelligence-HR-Analytics)
 **Tools:** Power BI  
+
+🔗 **[Live Report](https://app.powerbi.com/view?r=eyJrIjoiZWViMmI5OGEtYzhiOS00NDU0LTgzNWQtZjViMWU5OWQ0YTA4IiwidCI6IjY3YWI1OTEyLTg0YWItNGQwOS1iZTcyLWMxZDVjYzk2YTEzNCJ9)**
 
 - Transformed raw data using Power Query for analysis-ready structure  
 - Designed a star schema with fact and dimension tables  
